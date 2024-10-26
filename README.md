@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Abhishek Kumar Giri
-- 👀 I’m interested in learning and exploring new things in the tech industry...
-- 🌱 I’m currently learning new technology and working on my skills for future outcomings...
-- 💞️ I’m looking to collaborate on: Open-source projects related to cybersecurity, software development, or web development. Coding competitions and hackathons — always excited to join a team and tackle challenging problems. ...
-- 📫 Reach me on email: abhishekkumargiri770@gmail.com ...
-- 😄 Pronouns: He/ Him...
-- ⚡ Fun fact: The term "bug" in computer science dates back to 1947 when a real moth caused a malfunction in the Harvard Mark II computer, leading engineers to call it a "bug."...
+Hi, I’m @Abhishek Kumar Giri. I’m eager to learn and explore new areas in tech. Currently, I'm enhancing my skills and knowledge in new technologies. I'm interested in collaborating on open-source projects in cybersecurity, software, or web development, as well as participating in coding competitions and hackathons.
+
+
+
+## [![An image of @abhishekchamp879's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekchamp879)](https://holopin.io/@abhishekchamp879)
+
+
+
+
+
+
 
 <!---
 AbhishekChamp879/AbhishekChamp879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
